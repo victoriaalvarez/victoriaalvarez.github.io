@@ -129,9 +129,19 @@
             "Theme"
           ],
           "_name": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "text-align": "left"
+            },
+            ".mbr-section-text": {
+              "text-align": "left"
+            }
+          },
           "_anchor": "header2-11",
           "_params": {
-            "imageSize": "31",
+            "imageSize": "24",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
@@ -174,17 +184,7 @@
           },
           "title": "All About Me",
           "text": "My name is Victoria Alvarez. <br>For as long as I can remember, I had a passion for animals., specifically cats. I payed close attention to their movements and structures, and would scribble down their appearances on a piece of lined paper stolen from my grandfather's office. I was very young when my mother gave me my first set of crayola crayons, that pack of six was gone by the following week! All I would ever do was draw what I saw around me, or my pets. I also had an obsession over Tom &amp; Jerry. It was the first cartoon I had ever watched, and to this day it remains my most treasured memory.&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-family": "'Indie Flower', cursive",
-              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
-              "text-align": "right"
-            },
-            ".mbr-section-text": {
-              "text-align": "left"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
           "_inherit": "features3",
