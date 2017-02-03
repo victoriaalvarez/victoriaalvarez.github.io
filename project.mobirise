@@ -168,7 +168,7 @@
           "_name": "header2",
           "_anchor": "header2-19",
           "_params": {
-            "imageSize": "42",
+            "imageSize": "52",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/cotton-2000x1360.jpg",
