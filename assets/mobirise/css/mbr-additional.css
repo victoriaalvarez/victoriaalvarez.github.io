@@ -474,12 +474,22 @@ h6,
 #ext_menu-0 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
-#header2-11 .mbr-section-title {
-  font-family: 'Indie Flower', cursive;
-  text-align: left;
+#msg-box8-14 .mbr-section-title,
+#msg-box8-14 p {
+  color: #fff;
 }
-#header2-11 .mbr-section-text {
-  text-align: left;
+#msg-box8-14 .lead {
+  color: #ffffff;
+}
+#header2-19 .mbr-section-title {
+  font-family: 'Indie Flower', cursive;
+}
+#features7-1a .card-subtitle {
+  color: #bcbcbc;
+}
+#features7-1a .iconbox {
+  background-color: #a5d6e1;
+  border-color: #a5d6e1;
 }
 #ext_menu-9 .hide-buttons .nav-btn {
   display: none !important;
