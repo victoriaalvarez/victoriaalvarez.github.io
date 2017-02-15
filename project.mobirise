@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.7",
-    "uniqCompNum": 59,
+    "uniqCompNum": 63,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -617,48 +617,47 @@
             "Theme"
           ],
           "_name": "msg-box8",
-          "_anchor": "msg-box8-1d",
+          "_anchor": "msg-box8-1q",
           "_params": {
-            "paddingTop": "4",
-            "paddingBottom": 3,
+            "paddingTop": "3",
+            "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "bgColor": "#F2F2F2",
-            "bgColorRadio": false,
+            "bgImage": "file:///Users/kawaiicat/Library/Application%20Support/Mobirise.com/Mobirise/projectData/full-unsplash-photo-1476400160014-824fe0a1f6bb-2000x1125-17.jpg",
+            "bgColor": "#4c4060",
+            "bgColorRadio": true,
             "bgVideo": {
-              "width": 1280,
-              "height": 720,
-              "url": ""
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": true,
+            "bgVideoRadio": false,
             "overlay": true,
             "overlayOpacity": 0.5,
-            "overlayColor": "#67a2af",
+            "overlayColor": "#553982",
             "showTitle": true,
             "showText": true,
             "showButton": false
           },
-          "title": "Some of my Stuff...",
-          "text": "I spend a lot of time working on these pieces, and here are a few of my favorites.",
+          "title": "Photoshop Projects",
+          "text": "These are a few of my favorite photoshop pieces.&nbsp;",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
+          "_inherit": "gallery1",
           "_tags": [
             "Theme"
           ],
-          "_name": "gallery1",
+          "_name": "gallery4",
           "_params": {
             "paddingTop": "4",
-            "paddingBottom": "4",
+            "paddingBottom": "1",
             "images": [
               {
                 "tags": "Awesome",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/victoria-alvarez-sights-and-sounds-of-the-60s-2000x1545-74-800x618-99.jpg",
-                "image": "@PROJECT_PATH@/assets/images/victoria-alvarez-sights-and-sounds-of-the-60s-2000x1545-74.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/victoria-alvarez-perspective-piece-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/victoria-alvarez-perspective-piece-2000x1333.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -667,8 +666,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/victoria-alvarez-perspective-2000x1333-26-800x533-59.jpg",
-                "image": "@PROJECT_PATH@/assets/images/victoria-alvarez-perspective-2000x1333-26.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/victoria-alvarez-side-1-2000x1000-800x400.jpg",
+                "image": "@PROJECT_PATH@/assets/images/victoria-alvarez-side-1-2000x1000.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -677,8 +676,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/victoria-alvarez-side-1-2000x1000-4-800x400-15.jpg",
-                "image": "@PROJECT_PATH@/assets/images/victoria-alvarez-side-1-2000x1000-4.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/logo-2000x500-800x200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/logo-2000x500.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -687,28 +686,30 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dadeschools-logo-competition-2000x2000-11-800x800-45.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dadeschools-logo-competition-2000x2000-11.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/victoria-alvarez-king-kong-2000x1000-800x400.jpg",
+                "image": "@PROJECT_PATH@/assets/images/victoria-alvarez-king-kong-2000x1000.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Awesome",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/victoria-alvarez-aerospace-assignment-2000x1545-800x618.jpg",
+                "image": "@PROJECT_PATH@/assets/images/victoria-alvarez-aerospace-assignment-2000x1545.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Beautiful",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/faces-victoria-alvarez-2000x2962-800x1184.jpg",
+                "image": "@PROJECT_PATH@/assets/images/faces-victoria-alvarez-2000x2962.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Responsive",
@@ -717,7 +718,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-                "caption": "Type caption here"
+                "caption": "Type caption here",
+                "active": true
               },
               {
                 "tags": "Animated",
@@ -729,15 +731,15 @@
                 "caption": "Type caption here"
               }
             ],
-            "spacing": 0,
+            "spacing": "1",
             "showText": false,
             "filter": false,
-            "bgColor": "#000000",
+            "bgColor": "fff",
             "filterBgColor": false,
             "fullWidth": false,
             "showBullets": true
           },
-          "_anchor": "gallery1-1c",
+          "_anchor": "gallery4-1o",
           "articleLayout": false,
           "allItem": "All"
         },
@@ -2658,7 +2660,7 @@
         }
       ]
     },
-    "page23.html": {
+    "layout.html": {
       "settings": {
         "title": "Web Creator Title",
         "meta_descr": "Web Creator Description"
@@ -2762,6 +2764,12 @@
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
+            }
+          },
           "_anchor": "header1-1m",
           "_params": {
             "parallax": true,
@@ -2784,13 +2792,7 @@
           },
           "title": "Victoria Alvarez",
           "text": "-- \" Just Bceause My Path Is Different Doesn't Mean I'm Lost.\" --",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">Enter..</a>",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-family": "'Indie Flower', cursive",
-              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
-            }
-          }
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">Enter..</a>"
         },
         {
           "_tags": [
