@@ -2367,7 +2367,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 2
+        "order": 1
       },
       "components": [
         {
@@ -2774,7 +2774,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -2886,7 +2886,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/desert-night-desktop-wallpaper-2000x11255.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/desert-night-desktop-wallpaper-2000x11256.png",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
