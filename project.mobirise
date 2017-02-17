@@ -2886,7 +2886,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/desert-night-desktop-wallpaper-2000x11256.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/desert-night-desktop-wallpaper-2000x11257.png",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
