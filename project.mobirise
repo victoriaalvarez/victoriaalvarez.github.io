@@ -2475,7 +2475,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/desert-night-desktop-wallpaper-2000x11253.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/desert-night-desktop-wallpaper-2000x11254.png",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2492,7 +2492,7 @@
           },
           "title": "Victoria Alvarez",
           "text": "-- \" Just Because My Path Is Different, Doesn't Mean I'm Lost.\" --",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"intro.html\" data-toolbar=\"-mbrBtnMove\">Enter..</a>"
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"inde.html\" data-toolbar=\"-mbrBtnMove\">Enter..</a>"
         },
         {
           "_tags": [
@@ -2554,7 +2554,7 @@
         }
       ]
     },
-    "intro.html": {
+    "inde.html": {
       "settings": {
         "title": "Web Creator Title",
         "meta_descr": "Web Creator Description",
