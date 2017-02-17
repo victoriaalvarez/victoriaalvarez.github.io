@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.7",
-    "uniqCompNum": 67,
+    "uniqCompNum": 79,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -51,7 +51,9 @@
               "background-color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-family": "'Open Sans', sans-serif"
             },
             ".link": {
               "font-size": "0.75rem"
@@ -2325,7 +2327,7 @@
         }
       ]
     },
-    "bio.html": {
+    "index.html": {
       "settings": {
         "main": true,
         "title": "",
@@ -2333,7 +2335,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 2
+        "order": 1
       },
       "components": [
         {
@@ -2430,6 +2432,88 @@
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"bio.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">INTRODUCTION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"intro pic.html\">Intro. Picture</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Introduction</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"goals and achievements.html\">Goals and Achievements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Home Page</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premiere.html\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audition.html\">Adobe Audition</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"word.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Microsoft Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">DiscussIT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://victoriaalvarez.github.io/Discuss IT Topic 6.pdf\">Topic 6</a></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"powerpoint.html\">Microsoft Power-Point</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">123D</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ps.html\">Industry Certified PS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ai.html\">Industry Certified AI</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ap.html\">Industry Certified AP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aa.html\">Industry Certified AA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"dw.html\">Industry Certified DW</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"transcript.html\">Transcript</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"mr pate.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"><p>Mr. Pate</p></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ap teacher.html\">AP Teacher</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"community member.html\">Community Member</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"family friend.html\">Family Friend</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">CONTACT</a></li>"
         },
         {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
+            }
+          },
+          "_anchor": "header1-26",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/desert-night-desktop-wallpaper-2000x11251.png",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "Victoria Alvarez",
+          "text": "-- \" Just Because My Path Is Different, Doesn't Mean I'm Lost.\" --",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"landing.html\" data-toolbar=\"-mbrBtnMove\">Enter..</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-t",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/kijeayyiq-128x139.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
+          "text2": "<strong>Contacts</strong><br>\nEmail: valvarez@miamiartsstudio.com<br>\nPhone: 305-904-7162<br><br>",
+          "text3": "<strong>Links</strong><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/\">Website builder</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a>"
+        }
+      ]
+    },
+    "intro.html": {
+      "settings": {
+        "title": "Web Creator Title",
+        "meta_descr": "Web Creator Description",
+        "order": 2
+      },
+      "components": [
+        {
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
@@ -2442,13 +2526,13 @@
             "Theme"
           ],
           "_name": "msg-box8",
-          "_anchor": "msg-box8-14",
+          "_anchor": "msg-box8-21",
           "_params": {
             "paddingTop": "3",
             "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1476400160014-824fe0a1f6bb-2000x1125-17.jpg",
+            "bgImage": "file:///C:/Users/0325180/AppData/Local/Mobirise.com/Mobirise/projectData/full-unsplash-photo-1476400160014-824fe0a1f6bb-2000x1125-17.jpg",
             "bgColor": "#4c4060",
             "bgColorRadio": true,
             "bgVideo": {
@@ -2477,12 +2561,12 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
             }
           },
-          "_anchor": "header2-19",
+          "_anchor": "header2-23",
           "_params": {
             "imageSize": "52",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/desert-night-desktop-wallpaper-2000x1125.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/desert-night-desktop-wallpaper-2000x1125-1.png",
             "bgColor": "#e7c1d5",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2539,7 +2623,7 @@
             }
           },
           "_name": "features7",
-          "_anchor": "features7-1a",
+          "_anchor": "features7-24",
           "_params": {
             "iconsBgColor": "#6a5789",
             "paddingTop": 2,
@@ -2663,7 +2747,7 @@
             "Theme"
           ],
           "_name": "content7",
-          "_anchor": "content7-w",
+          "_anchor": "content7-25",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
@@ -2672,88 +2756,6 @@
           "text1": "When I started school, I remembered my first grade teacher asking what I want to be when I grow up, and I said that I wanted to be an artist for Disney or Dreamworks. She thought that it was way too advanced and that I would never be able to make it. I did not let this get in my way. As I made my way into fourth grade, I met Janessa Blanco. She was an artist, just like me. We teamed up and started making commissions for our fellow classmates. To this day she remains my best friend, and we have stuck together creating and selling our artworks.&nbsp;",
           "text2": "Last year, I took a trip to Key West. I was amazed by the colors and history behind the historical buildings and sites. I decided to start taking pictures. I have developed a love for photography, and now I travel to take photos of anything interesting I lay eyes on. Recently, I went to Captiva, and noticed the varieties of different species of animals and plants. I started taking pictures of birds, palm trees, and sunsets. I had thought of an idea then, to create fictional characters off the pictures I took. Now, I have a lot of characters of my own.",
           "text3": "I joined the magnet strand technology production because of the passion I developed for art and photography, and I hope to do well in the nearing future.&nbsp;"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts1",
-          "_anchor": "contacts1-t",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/kijeayyiq-128x139.png",
-              "width": 128,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
-          "text2": "<strong>Contacts</strong><br>\nEmail: valvarez@miamiartsstudio.com<br>\nPhone: 305-904-7162<br><br>",
-          "text3": "<strong>Links</strong><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/\">Website builder</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a>"
-        }
-      ]
-    },
-    "index.html": {
-      "settings": {
-        "title": "Web Creator Title",
-        "meta_descr": "Web Creator Description",
-        "order": 1
-      },
-      "components": [
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header1",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-family": "'Indie Flower', cursive",
-              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
-            }
-          },
-          "_anchor": "header1-1m",
-          "_params": {
-            "parallax": true,
-            "bgImageRadio": true,
-            "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/desert-night-desktop-wallpaper-2000x1125.png",
-            "bgColor": "#a07e49",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#000",
-            "contentAlign": "center",
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true
-          },
-          "title": "Victoria Alvarez",
-          "text": "-- \" Just Because My Path Is Different, Doesn't Mean I'm Lost.\" --",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"bio.html\" data-toolbar=\"-mbrBtnMove\">Enter..</a>"
         },
         {
           "_tags": [

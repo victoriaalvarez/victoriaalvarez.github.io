@@ -1,8 +1,9 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Indie+Flower);
+
 
 
 
@@ -429,6 +430,7 @@ h6,
 #ext_menu-9 .link,
 #ext_menu-9 .dropdown-item {
   color: #ffffff;
+  font-family: 'Open Sans', sans-serif;
 }
 #ext_menu-9 .link {
   font-size: 0.75rem;
@@ -1789,24 +1791,24 @@ h6,
 #ext_menu-0 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
-#msg-box8-14 .mbr-section-title,
-#msg-box8-14 p {
-  color: #fff;
-}
-#msg-box8-14 .lead {
-  color: #ffffff;
-}
-#header2-19 .mbr-section-title {
+#header1-26 .mbr-section-title {
   font-family: 'Indie Flower', cursive;
-}
-#features7-1a .card-subtitle {
-  color: #bcbcbc;
-}
-#features7-1a .iconbox {
-  background-color: #6a5789;
-  border-color: #6a5789;
 }
 
-#header1-1m .mbr-section-title {
+#msg-box8-21 .mbr-section-title,
+#msg-box8-21 p {
+  color: #fff;
+}
+#msg-box8-21 .lead {
+  color: #ffffff;
+}
+#header2-23 .mbr-section-title {
   font-family: 'Indie Flower', cursive;
+}
+#features7-24 .card-subtitle {
+  color: #bcbcbc;
+}
+#features7-24 .iconbox {
+  background-color: #6a5789;
+  border-color: #6a5789;
 }
