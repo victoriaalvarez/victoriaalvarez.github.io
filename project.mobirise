@@ -29,7 +29,7 @@
   "pages": {
     "123D.html": {
       "settings": {
-        "order": 4
+        "order": 3
       },
       "components": [
         {
@@ -127,7 +127,7 @@
     },
     "photoshop.html": {
       "settings": {
-        "order": 5
+        "order": 4
       },
       "components": [
         {
@@ -425,7 +425,7 @@
     },
     "premiere.html": {
       "settings": {
-        "order": 6
+        "order": 5
       },
       "components": [
         {
@@ -521,7 +521,7 @@
     },
     "illustrator.html": {
       "settings": {
-        "order": 7
+        "order": 6
       },
       "components": [
         {
@@ -617,7 +617,7 @@
     },
     "audition.html": {
       "settings": {
-        "order": 8
+        "order": 7
       },
       "components": [
         {
@@ -713,7 +713,7 @@
     },
     "word.html": {
       "settings": {
-        "order": 9
+        "order": 8
       },
       "components": [
         {
@@ -813,7 +813,7 @@
     },
     "powerpoint.html": {
       "settings": {
-        "order": 10
+        "order": 9
       },
       "components": [
         {
@@ -911,7 +911,7 @@
     },
     "intro pic.html": {
       "settings": {
-        "order": 11
+        "order": 10
       },
       "components": [
         {
@@ -1009,7 +1009,7 @@
     },
     "introduction.html": {
       "settings": {
-        "order": 12
+        "order": 11
       },
       "components": [
         {
@@ -1107,7 +1107,7 @@
     },
     "goals and achievements.html": {
       "settings": {
-        "order": 13
+        "order": 12
       },
       "components": [
         {
@@ -1203,7 +1203,7 @@
     },
     "contact.html": {
       "settings": {
-        "order": 14
+        "order": 13
       },
       "components": [
         {
@@ -1395,7 +1395,7 @@
     },
     "ps.html": {
       "settings": {
-        "order": 15
+        "order": 14
       },
       "components": [
         {
@@ -1493,7 +1493,7 @@
     },
     "ai.html": {
       "settings": {
-        "order": 16
+        "order": 15
       },
       "components": [
         {
@@ -1591,7 +1591,7 @@
     },
     "ap.html": {
       "settings": {
-        "order": 17
+        "order": 16
       },
       "components": [
         {
@@ -1687,7 +1687,7 @@
     },
     "aa.html": {
       "settings": {
-        "order": 18
+        "order": 17
       },
       "components": [
         {
@@ -1783,7 +1783,7 @@
     },
     "dw.html": {
       "settings": {
-        "order": 19
+        "order": 18
       },
       "components": [
         {
@@ -1881,7 +1881,7 @@
     },
     "transcript.html": {
       "settings": {
-        "order": 20
+        "order": 19
       },
       "components": [
         {
@@ -1977,7 +1977,7 @@
     },
     "mr pate.html": {
       "settings": {
-        "order": 21
+        "order": 20
       },
       "components": [
         {
@@ -2073,7 +2073,7 @@
     },
     "ap teacher.html": {
       "settings": {
-        "order": 22
+        "order": 21
       },
       "components": [
         {
@@ -2169,7 +2169,7 @@
     },
     "community member.html": {
       "settings": {
-        "order": 23
+        "order": 22
       },
       "components": [
         {
@@ -2265,7 +2265,7 @@
     },
     "family friend.html": {
       "settings": {
-        "order": 24
+        "order": 23
       },
       "components": [
         {
@@ -2369,7 +2369,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 3
+        "order": 1
       },
       "components": [
         {
@@ -2630,7 +2630,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -2822,7 +2822,7 @@
           },
           "title": "All About Me",
           "text": "For as long &nbsp;as I can remember, I had passion for animals, specifically cats. I payed close attention to their movements and structures, and would scribble down their appearances on a piece of lined paper stolen from my grandfather's office. I was very young when my mother gave me my first set of crayons, and that pack of six was gone by the following week! All I would ever do was draw what I saw around me, or my pets.&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"index.html#content7-w\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"index.html#content7-w \" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
           "_inherit": "features4",
