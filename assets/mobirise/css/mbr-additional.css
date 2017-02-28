@@ -1797,25 +1797,17 @@ h6,
 #ext_menu-0 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
-#msg-box8-2d .mbr-section-title,
-#msg-box8-2d p {
-  color: #fff;
-}
-#msg-box8-2d .lead {
-  color: #ffffff;
-}
-#msg-box8-2d .mbr-section-title {
-  color: #ffffff;
-}
-#header2-2e .mbr-section-title {
+#header1-30 .mbr-section-title {
   font-family: 'Indie Flower', cursive;
 }
-#features7-2f .card-subtitle {
-  color: #bcbcbc;
+#content8-2x .mbr-section-title,
+#content8-2x p {
+  text-align: right;
+  color: #fff;
 }
-#features7-2f .iconbox {
-  background-color: #6a5789;
-  border-color: #6a5789;
+#social-buttons4-2y .mbr-section-title,
+#social-buttons4-2y .btn-social {
+  color: #fff;
 }
 
 
@@ -1881,11 +1873,23 @@ h6,
 #ext_menu-2i .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
-#header1-2p .mbr-section-title {
+#msg-box8-2t .mbr-section-title,
+#msg-box8-2t p {
+  color: #fff;
+}
+#msg-box8-2t .lead {
+  color: #ffffff;
+}
+#msg-box8-2t .mbr-section-title {
+  color: #ffffff;
+}
+#header2-2u .mbr-section-title {
   font-family: 'Indie Flower', cursive;
 }
-#content8-2q .mbr-section-title,
-#content8-2q p {
-  text-align: right;
-  color: #fff;
+#features7-2v .card-subtitle {
+  color: #bcbcbc;
+}
+#features7-2v .iconbox {
+  background-color: #6a5789;
+  border-color: #6a5789;
 }
