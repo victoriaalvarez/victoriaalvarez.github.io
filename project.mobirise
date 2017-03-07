@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Website",
-    "currentPage": "biography.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.7",
-    "uniqCompNum": 109,
+    "uniqCompNum": 111,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -186,7 +186,7 @@
             }
           },
           "_name": "ext.menu",
-          "_anchor": "ext_menu-5",
+          "_anchor": "ext_menu-0",
           "_params": {
             "bgColor": "#282828",
             "fontSize": 0.75,
@@ -207,7 +207,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/kijeayyiq-117x128-72.png",
+              "src": "@PROJECT_PATH@/assets/images/signature-128x128-47.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -364,6 +364,121 @@
           "allItem": "All"
         },
         {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".lead": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-32",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "2",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "file:///Users/kawaiicat/Library/Application%20Support/Mobirise.com/Mobirise/projectData/full-unsplash-photo-1476400160014-824fe0a1f6bb-2000x1125-17_1.jpg",
+            "bgColor": "#4c4060",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#553982",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "Here It Is.",
+          "text": "This is my progress on the Masterpiece Reproduction project, where I reproduce a famous Picasso piece.&nbsp;",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider3",
+          "_params": {
+            "autoplay": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "timeout": 5,
+            "slides": [
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/victoria-alvarez-1-2000x1500.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "IMAGE SLIDER",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/victoria-alvarez2-2000x1500.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "left",
+                "showTitle": false,
+                "title": "BACKGROUND VIDEO",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/victoria-alvarez3-2000x1500.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "right",
+                "showTitle": false,
+                "title": "BOOTSTRAP SLIDER",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/victoria-alvarez5-2000x1500.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "left",
+                "showTitle": false,
+                "title": "BACKGROUND VIDEO",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ],
+            "fullScreen": false,
+            "bgColor": "#000000",
+            "showBullets": true
+          },
+          "_anchor": "slider3-31",
+          "articleLayout": false
+        },
+        {
           "_tags": [
             "Theme"
           ],
@@ -383,7 +498,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/kijeayyiq-128x139.png",
+              "src": "@PROJECT_PATH@/assets/images/signature-128x128.png",
               "width": 128,
               "active": true,
               "link": "",
@@ -1262,7 +1377,7 @@
             }
           },
           "_name": "ext.menu",
-          "_anchor": "ext_menu-f",
+          "_anchor": "ext_menu-0",
           "_params": {
             "bgColor": "#282828",
             "fontSize": 0.75,
@@ -1283,7 +1398,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/kijeayyiq-117x128-45.png",
+              "src": "@PROJECT_PATH@/assets/images/signature-128x128-47.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -2364,7 +2479,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "",
+        "title": "Victoria Alvarez",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -2449,7 +2564,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/signature-384x128-87.png",
+              "src": "@PROJECT_PATH@/assets/images/signature-128x128-47.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -2463,7 +2578,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"biography.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">INTRODUCTION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"intro pic.html\">Intro. Picture</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Introduction</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"goals and achievements.html\">Goals and Achievements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Home Page</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premiere.html\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audition.html\">Adobe Audition</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"word.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">DiscussIT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://victoriaalvarez.github.io/Discuss IT Topic 6.pdf\">Topic 6</a></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"powerpoint.html\">Microsoft Power-Point</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">123D</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ps.html\">Industry Certified PS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ai.html\">Industry Certified AI</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ap.html\">Industry Certified AP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aa.html\">Industry Certified AA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"dw.html\">Industry Certified DW</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"transcript.html\">Transcript</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"mr pate.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"><p>Mr. Pate</p></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ap teacher.html\">AP Teacher</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"community member.html\">Community Member</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"family friend.html\">Family Friend</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact.html\">CONTACT</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"biography.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">INTRODUCTION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"intro pic.html\">Intro. Picture</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Introduction</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"goals and achievements.html\">Goals and Achievements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Home Page</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premiere.html\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audition.html\">Adobe Audition</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"word.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">DiscussIT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://victoriaalvarez.github.io/Discuss IT Topic 6.pdf\">Topic 6</a></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"powerpoint.html\">Microsoft Power-Point</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">123D</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ps.html\">Industry Certified PS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ai.html\">Industry Certified AI</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ap.html\">Industry Certified AP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aa.html\">Industry Certified AA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"dw.html\">Industry Certified DW</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"transcript.html\">Transcript</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"mr pate.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"><p>Mr. Pate</p></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ap teacher.html\">AP Teacher</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"community member.html\">Community Member</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"family friend.html\">Family Friend</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact.html\">CONTACT</a></li>"
         },
         {
           "_tags": [
@@ -2583,7 +2698,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/kijeayyiq-128x139.png",
+              "src": "@PROJECT_PATH@/assets/images/signature-128x128-85.png",
               "width": 128,
               "active": true,
               "link": "",
@@ -2625,7 +2740,7 @@
     },
     "biography.html": {
       "settings": {
-        "title": "",
+        "title": "Victoria Alvarez",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -2689,7 +2804,7 @@
             }
           },
           "_name": "ext.menu",
-          "_anchor": "ext_menu-2i",
+          "_anchor": "ext_menu-0",
           "_params": {
             "bgColor": "#282828",
             "fontSize": 0.75,
@@ -2710,7 +2825,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/signature-384x128-87.png",
+              "src": "@PROJECT_PATH@/assets/images/signature-128x128-47.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -2836,6 +2951,12 @@
             ".iconbox": {
               "background-color": "#6a5789",
               "border-color": "#6a5789"
+            },
+            "P": {
+              "color": "#ffffff"
+            },
+            "H4": {
+              "color": "#ffffff"
             }
           },
           "_name": "features7",
@@ -2847,7 +2968,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#ffffff",
+            "bgColor": "#b5abc4",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -2963,11 +3084,16 @@
             "Theme"
           ],
           "_name": "content7",
+          "_styles": {
+            "DIV": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "content7-2w",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#b3abbf"
           },
           "text1": "When I started school, I remembered my first grade teacher asking what I want to be when I grow up, and I said that I wanted to be an artist for Disney or Dreamworks. She thought that it was way too advanced and that I would never be able to make it. I did not let this get in my way. As I made my way into fourth grade, I met Janessa Blanco. She was an artist, just like me. We teamed up and started making commissions for our fellow classmates. To this day she remains my best friend, and we have stuck together creating and selling our artworks.&nbsp;",
           "text2": "Last year, I took a trip to Key West. I was amazed by the colors and history behind the historical buildings and sites. I decided to start taking pictures. I have developed a love for photography, and now I travel to take photos of anything interesting I lay eyes on. Recently, I went to Captiva, and noticed the varieties of different species of animals and plants. I started taking pictures of birds, palm trees, and sunsets. I had thought of an idea then, to create fictional characters off the pictures I took. Now, I have a lot of characters of my own.",
@@ -2993,7 +3119,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/kijeayyiq-128x139.png",
+              "src": "@PROJECT_PATH@/assets/images/signature-128x128-77.png",
               "width": 128,
               "active": true,
               "link": "",
