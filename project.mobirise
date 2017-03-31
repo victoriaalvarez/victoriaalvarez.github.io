@@ -17,12 +17,13 @@
         "textFont": "Raleway",
         "isRoundedButtons": false,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": false
+        "isScrollToTopButton": false,
+        "isRtl": false
       }
     },
     "versionFirst": "3.10.7",
-    "uniqCompNum": 112,
-    "versionPublish": "3.11.1",
+    "uniqCompNum": 114,
+    "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
   },
@@ -2752,7 +2753,70 @@
           },
           "title": "Introduction Video",
           "text": "Clicking this link will take you straight to my youtube video about myself.",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://youtu.be/QraL7WM5HAU\" data-toolbar=\"-mbrBtnMove\">Youtube Video!</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://youtu.be/LRWlLTjXwDc\" data-toolbar=\"-mbrBtnMove\">Youtube Video!</a>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery3",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/cat-galaxy-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/cat-galaxy-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/victoria-alvarez-sights-and-sounds-of-the-60s-2000x1545-800x618.jpg",
+                "image": "@PROJECT_PATH@/assets/images/victoria-alvarez-sights-and-sounds-of-the-60s-2000x15452.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/victoria-alvarez-perspective-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/victoria-alvarez-perspective-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/goodnight-trees-2000x1000-800x400.jpg",
+                "image": "@PROJECT_PATH@/assets/images/goodnight-trees-2000x1000.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": 1,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#000000",
+            "filterBgColor": true,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery3-34",
+          "articleLayout": false,
+          "allItem": "All"
         },
         {
           "_inherit": "social-buttons2",
