@@ -556,6 +556,7 @@ h6,
 #msg-box8-32 .mbr-section-title {
   color: #ffffff;
 }
+
 #ext_menu-6 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -572,6 +573,7 @@ h6,
 #ext_menu-6 .link,
 #ext_menu-6 .dropdown-item {
   color: #ffffff;
+  font-family: 'Open Sans', sans-serif;
 }
 #ext_menu-6 .link {
   font-size: 0.75rem;
