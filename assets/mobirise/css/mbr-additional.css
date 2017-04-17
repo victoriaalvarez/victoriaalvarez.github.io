@@ -546,14 +546,14 @@ h6,
 #msg-box8-1q .lead {
   color: #ffffff;
 }
-#msg-box8-31 .mbr-section-title,
-#msg-box8-31 p {
+#msg-box8-32 .mbr-section-title,
+#msg-box8-32 p {
   color: #fff;
 }
-#msg-box8-31 .lead {
+#msg-box8-32 .lead {
   color: #ffffff;
 }
-#msg-box8-31 .mbr-section-title {
+#msg-box8-32 .mbr-section-title {
   color: #ffffff;
 }
 #ext_menu-6 .hide-buttons .nav-btn {
@@ -1810,15 +1810,10 @@ h6,
 #header1-30 .mbr-section-title {
   font-family: 'Indie Flower', cursive;
 }
-#msg-box3-33 .mbr-section-title,
-#msg-box3-33 p {
-  color: #000;
-}
-#msg-box3-33 .mbr-section-title {
-  color: #ffffff;
-}
-#msg-box3-33 .lead {
-  color: #ffffff;
+#content8-2x .mbr-section-title,
+#content8-2x p {
+  text-align: right;
+  color: #fff;
 }
 #social-buttons4-2y .mbr-section-title,
 #social-buttons4-2y .btn-social {
