@@ -619,6 +619,19 @@ h6,
 #ext_menu-6 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+#msg-box8-38 .mbr-section-title,
+#msg-box8-38 p {
+  color: #fff;
+}
+#msg-box8-38 .lead {
+  color: #ffffff;
+}
+#header6-39 .mbr-section-title {
+  color: #ffffff;
+}
+#header6-39 .mbr-section-text {
+  color: #ffffff;
+}
 #ext_menu-7 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1812,10 +1825,11 @@ h6,
 #header1-30 .mbr-section-title {
   font-family: 'Indie Flower', cursive;
 }
-#content8-2x .mbr-section-title,
-#content8-2x p {
-  text-align: right;
-  color: #fff;
+#header6-37 .mbr-section-title {
+  color: #ffffff;
+}
+#header6-37 .mbr-section-text {
+  color: #ffffff;
 }
 #social-buttons4-2y .mbr-section-title,
 #social-buttons4-2y .btn-social {
